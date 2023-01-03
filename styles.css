@@ -1,0 +1,53 @@
+ 
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    /* max-height: 100vh; */
+  }
+ .apicall{
+    height: 100%;
+} 
+.calloutput{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.output{
+    text-align: center;
+    width: 25%;
+    /* border: 1px solid black; */
+    /* padding: 15px; */
+    margin-top: 20px;
+}
+
+.output h1{
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .output p{
+    text-align: center;
+    margin:20px;
+    font-size:20px;
+  }
+
+
+.output{
+    width: 30%;
+    background: #e7e7e7;
+    height: 40vh;
+    margin: 50px auto;
+    border-radius: 2px;
+  }
+  
+  
+  /* .close{
+    float: right;
+    margin-top: -2px;
+    cursor: pointer;
+    margin-right: 20px;
+  } */
+  
